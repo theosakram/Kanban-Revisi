@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "theosakram",
+    "password": "pgpw",
+    "database": "Kanban2",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "ajqbfiknvmfeyy",
+    "password": "9dd52dab8f12bf606c5cfe20906a089fee859e8629bdf5b055b4e1fc9566a20b",
+    "database": "d83vc3icl3bq9o",
+    "host": "ec2-34-197-188-147.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
